@@ -1,0 +1,3974 @@
+Calendar frvky
+Calendar
+File
+Edit
+View
+Window
+Sun Oct 25  10:54 PM
+Calendar
+October 2026
+S
+M
+T
+W
+T
+F
+S
+27
+28
+29
+30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+1
+2
+3
+4
+5
+6
+7
+Sunday, October 25
+Book a meeting
+The Big Circle 6.0
+7:00 PM – 2:00 AM (+1 day)
+Calendar
+Sun
+25
+Leave Frvky a note ✍️
+now
+
+Tap to say something about the site. It goes straight into Testimonials.
+controls [
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Close',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Minimize',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Full size',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Previous month',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Next month',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '27',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '29',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '30',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '3',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '4',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '5',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '6',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '7',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '8',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '9',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '10',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '11',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '12',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '13',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '14',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '15',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '16',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '17',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '18',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '19',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '20',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '21',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '22',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '23',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '24',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '25',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '26',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '27',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '29',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '30',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '31',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '3',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '4',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '5',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '6',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '7',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: 'Book a meeting',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: 'The Big Circle 6.0\n7:00 PM – 2:00 AM (+1 day)',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: 'Calendar\nSun\n25',
+    aria: 'Calendar',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Photos',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Safari',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Notes',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Camera',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Jetron Ticket',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'A',
+    text: '',
+    aria: 'Mail',
+    href: 'mailto:kunmi@frvky.online',
+    placeholder: null
+  },
+  {
+    tag: 'A',
+    text: '',
+    aria: 'Instagram',
+    href: 'https://instagram.com/frvky',
+    placeholder: null
+  },
+  {
+    tag: 'A',
+    text: '',
+    aria: 'X',
+    href: 'https://x.com/Frvkyy',
+    placeholder: null
+  },
+  {
+    tag: 'A',
+    text: '',
+    aria: 'YouTube',
+    href: 'https://youtube.com/@Frvkyy',
+    placeholder: null
+  },
+  {
+    tag: 'A',
+    text: '',
+    aria: 'TikTok',
+    href: 'https://www.tiktok.com/@frvky',
+    placeholder: null
+  },
+  {
+    tag: 'A',
+    text: '',
+    aria: 'LinkedIn',
+    href: 'https://www.linkedin.com/in/akinkunmi-solomon-279802230',
+    placeholder: null
+  }
+]
+Photos frvky
+Photos
+File
+Edit
+View
+Window
+Sun Oct 25  10:54 PM
+Calendar
+October 2026
+S
+M
+T
+W
+T
+F
+S
+27
+28
+29
+30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+1
+2
+3
+4
+5
+6
+7
+Sunday, October 25
+Book a meeting
+The Big Circle 6.0
+7:00 PM – 2:00 AM (+1 day)
+Photos
+Library
+1:40
+2:00
+1:32
+0:20
+0:39
+0:42
+1:32
+2:50
+2:00
+1:23
+0:45
+1:07
+0:51
+1:00
+0:50
+1:01
+1:00
+1:48
+0:55
+1:37
+1:03
+1:00
+1:00
+2:22
+0:52
+0:53
+1:13
+0:59
+2:05
+1:38
+1:10
+2:01
+1:28
+1:19
+1:20
+1:24
+1:52
+1:28
+1:28
+1:33
+1:35
+0:54
+0:54
+0:54
+0:59
+1:00
+0:59
+0:54
+0:59
+0:54
+0:59
+1:38
+2:22
+Library
+Albums
+Sun
+25
+Photos
+Leave Frvky a note ✍️
+now
+
+Tap to say something about the site. It goes straight into Testimonials.
+controls [
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Close',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Minimize',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Full size',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Previous month',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Next month',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '27',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '29',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '30',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '3',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '4',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '5',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '6',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '7',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '8',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '9',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '10',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '11',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '12',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '13',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '14',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '15',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '16',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '17',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '18',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '19',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '20',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '21',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '22',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '23',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '24',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '25',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '26',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '27',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '29',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '30',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '31',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '3',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '4',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '5',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '6',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '7',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: 'Book a meeting',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: 'The Big Circle 6.0\n7:00 PM – 2:00 AM (+1 day)',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Close',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Minimize',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Full size',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:40',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:32',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:20',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:39',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:42',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:32',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:50',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:23',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:45',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:07',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:51',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:50',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:01',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:48',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:55',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:37',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:03',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:22',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:52',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:53',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:13',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:59',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:05',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:38',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:10',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:01',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:19',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:20',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:24',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:52',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:33',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:35',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:54',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:54',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:54',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:59',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:59',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:54',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  ... 724 more items
+]
+Safari frvky
+Safari
+File
+Edit
+View
+Window
+Sun Oct 25  10:54 PM
+Calendar
+October 2026
+S
+M
+T
+W
+T
+F
+S
+27
+28
+29
+30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+1
+2
+3
+4
+5
+6
+7
+Sunday, October 25
+Book a meeting
+The Big Circle 6.0
+7:00 PM – 2:00 AM (+1 day)
+Photos
+Library
+1:40
+2:00
+1:32
+0:20
+0:39
+0:42
+1:32
+2:50
+2:00
+1:23
+0:45
+1:07
+0:51
+1:00
+0:50
+1:01
+1:00
+1:48
+0:55
+1:37
+1:03
+1:00
+1:00
+2:22
+0:52
+0:53
+1:13
+0:59
+2:05
+1:38
+1:10
+2:01
+1:28
+1:19
+1:20
+1:24
+1:52
+1:28
+1:28
+1:33
+1:35
+0:54
+0:54
+0:54
+0:59
+1:00
+0:59
+0:54
+0:59
+0:54
+0:59
+1:38
+2:22
+Library
+Albums
+Safari
+Creativblock
+Dance Eko
+Ardour
+Groove Station
+KG Fit
+The Minister House
+Rundown
+Frequency
+SameRoom
+Afterset
+The DIY Collective
+Lammy A
+EF Moon
+https://creativblock.xyz
+
+Platform to discover creatives, enter weekly competitions and hire for briefs.
+
+Sun
+25
+Safari
+Leave Frvky a note ✍️
+now
+
+Tap to say something about the site. It goes straight into Testimonials.
+controls [
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Close',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Minimize',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Full size',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Previous month',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Next month',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '27',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '29',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '30',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '3',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '4',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '5',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '6',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '7',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '8',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '9',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '10',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '11',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '12',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '13',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '14',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '15',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '16',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '17',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '18',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '19',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '20',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '21',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '22',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '23',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '24',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '25',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '26',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '27',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '29',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '30',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '31',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '3',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '4',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '5',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '6',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '7',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: 'Book a meeting',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: 'The Big Circle 6.0\n7:00 PM – 2:00 AM (+1 day)',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Close',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Minimize',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Full size',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:40',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:32',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:20',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:39',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:42',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:32',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:50',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:23',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:45',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:07',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:51',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:50',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:01',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:48',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:55',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:37',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:03',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:22',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:52',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:53',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:13',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:59',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:05',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:38',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:10',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:01',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:19',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:20',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:24',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:52',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:33',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:35',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:54',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:54',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:54',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:59',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:59',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:54',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  ... 741 more items
+]
+Notes frvky
+Notes
+File
+Edit
+View
+Window
+Sun Oct 25  10:54 PM
+Calendar
+October 2026
+S
+M
+T
+W
+T
+F
+S
+27
+28
+29
+30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+1
+2
+3
+4
+5
+6
+7
+Sunday, October 25
+Book a meeting
+The Big Circle 6.0
+7:00 PM – 2:00 AM (+1 day)
+Photos
+Library
+1:40
+2:00
+1:32
+0:20
+0:39
+0:42
+1:32
+2:50
+2:00
+1:23
+0:45
+1:07
+0:51
+1:00
+0:50
+1:01
+1:00
+1:48
+0:55
+1:37
+1:03
+1:00
+1:00
+2:22
+0:52
+0:53
+1:13
+0:59
+2:05
+1:38
+1:10
+2:01
+1:28
+1:19
+1:20
+1:24
+1:52
+1:28
+1:28
+1:33
+1:35
+0:54
+0:54
+0:54
+0:59
+1:00
+0:59
+0:54
+0:59
+0:54
+0:59
+1:38
+2:22
+Library
+Albums
+Safari
+Creativblock
+Dance Eko
+Ardour
+Groove Station
+KG Fit
+The Minister House
+Rundown
+Frequency
+SameRoom
+Afterset
+The DIY Collective
+Lammy A
+EF Moon
+https://creativblock.xyz
+
+Platform to discover creatives, enter weekly competitions and hire for briefs.
+
+Notes
+Notes
+FOLDERS
+Testimonials
+0
+Websites
+14
+kunmi / frvky — what i do
+I'm Solomon Akinkunmi, also known as Kunmi or Frvky. I'm based in Lagos, working across music, marketing, film and digital products. I co-founded Jetron Ticket and lead the company as CEO, alongside my marketing work at KVLT and my own creative projects.
+work with me
+Marketing: campaign planning and execution for artists, events and brands. Paid advertising, influencer coordination, content direction and audience growth. I can lead the campaign or take ownership of a specific part of it.
+a few marketing projects
+Dance Eko 2025: I developed the overall marketing strategy with input from the team, assigned workstreams, ran all paid ads and oversaw the marketing budget. I led an approximately four-person marketing team and coordinated the media companies producing the content. The event sold over 5,000 tickets overall — that's the event result, not a claim that advertising alone generated every sale.
+sites, products and the work around them
+Dance Eko: I built the festival website and lead the marketing work around it. The site brings together event information, Road to Dance Eko activations, signups, playlists, past-edition galleries and ticket flows.
+rundown
+managers keep trying to remember who mixed what six months after the song was recorded. splits half written on a random note somewhere, producer credits nobody wrote down because it felt too early to bother when the song was still rough. by the time it's actually ready to go out, everyone's reconstructing history from memory and group chats, and someone always forgets a name that mattered.
+groove station weekly in dec??
+test it. momentum over scarcity right now. biweekly made sense early on, it built anticipation while the brand was still finding its feet and people needed a reason to mark the date. but people know it now, the brand has legs of its own. holding back on frequency might be leaving money and rhythm on the table at exactly the point where demand could actually support more. try a full month of weekly and actually watch the data instead of assuming, see whether attendance holds, dips, or somehow grows because the rhythm becomes a habit instead of an event. don't theorize this one, just run it.
+why build frvky.online at all
+got tired of the idea of a "portfolio" honestly. everyone's got a clean site with a hero image, a bio paragraph, and a contact form, and none of it says anything real about who made it. wanted something that actually felt like picking up a device, not scrolling a resume dressed up with nice fonts. if someone's going to spend two minutes on my site, i'd rather that time feel like an experience than a credential check. most people forget a portfolio the moment they close the tab. i wanted this one to stick because of how it felt, not just what it listed.
+on pricing and marketing
+there's usually a gap somewhere between markets, between platforms, between what something costs in one place versus what it's worth in another, and that gap doesn't stay open forever. the campaigns that actually worked weren't always the ones with the best creative, sometimes they worked because the pricing math was right before everyone else caught up to it. easy to give the credit to the song or the content when really it was the arbitrage doing the heavy lifting. worth being honest about which lever actually moved the needle each time, because crediting the wrong thing means repeating the wrong strategy next time and wondering why it didn't land the same way.
+b2b thing
+maybe this is bigger as a live stage format than a youtube channel. red bull energy, not content energy, something people want to attend rather than just watch back later in a feed. if it's framed as a franchise instead of a series, it probably pitches differently to sponsors too, less "help us make videos" and more "get in early on a format that scales city to city." worth actually mapping out what that would look like before defaulting to the easier, smaller version of the idea just because it's the version that's already halfway built.
+only playing amapiano out
+was the right call. depth over range. people book you because they already know exactly what they're getting when your name is on the lineup, not because you can technically do a bit of everything if asked. that specificity is the actual value, not a limitation on the brand. the DJs trying to be everything to everyone are usually the ones nobody can quite place, and getting booked for a vibe beats getting booked as a generalist every time.
+sync idea
+the lyric overlay should feel inevitable, not synced. if it feels timed, it's wrong, it should feel like the words were always going to land exactly there, like the app just noticed it rather than calculated it. small technical detail on paper but it's genuinely the whole difference between something feeling like software running in the background and something feeling like a moment happening in real time. worth obsessing over that timing more than almost anything else in the build.
+building frvky.online
+went with the phone-interface idea and just kept pushing on every tiny detail instead of settling for close enough anywhere. lock screen with an actual swipe to unlock, a real home screen with icons that open into their own little simulated worlds, photos that actually behave like photos behave instead of just being a generic gallery grid with a lightbox slapped on. building it screen by screen, catching every place it felt slightly off, the autoplay that didn't autoplay, the widget that looked like a button instead of a widget, and fixing each one until it stopped feeling like a website pretending to be a phone and started actually feeling like a phone. treating the whole thing like product design work, not a marketing site with animations.
+other sites built
+groove station and rundown both have their own notes because they're still active and evolving, but ardour and dance eko deserve a mention too. ardour is the one that has to stay raw on purpose, orange, underground, no polish, the second it starts looking too clean it stops being ardour and just becomes another event with a nice website. dance eko is the festival build, still in progress, and the lesson there so far is that every activation needs to feel like its own moment rather than a checkbox on a marketing calendar. easy to post a countdown graphic and call it done, much harder and much more worthwhile to actually show up in the spaces people already are.
+landmark and the groundnut oil paper
+landmark taught rigor, the groundnut oil paper taught patience. neither one shows up on a flyer or a deck cover, nobody's ever going to ask about either of them in a pitch meeting, but both are quietly present in every single thing i build now whether anyone notices it or not. the discipline of finishing something properly and the patience to sit with a slow process are both underrated skills that came from places that have nothing to do with music or tech.
+write down the wahala method before i forget it
+pricing arbitrage plus timing plus the right sound, it worked once. need to actually figure out if that combination is repeatable as a method or if it was just right place, right time that happened to line up. worth writing this down now while the details are still fresh, because trying to reverse engineer a win from memory a year later almost never works as well as capturing the thinking while it's still live.
+Sun
+25
+Notes
+Leave Frvky a note ✍️
+now
+
+Tap to say something about the site. It goes straight into Testimonials.
+controls [
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Close',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Minimize',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Full size',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Previous month',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Next month',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '27',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '29',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '30',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '3',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '4',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '5',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '6',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '7',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '8',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '9',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '10',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '11',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '12',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '13',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '14',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '15',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '16',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '17',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '18',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '19',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '20',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '21',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '22',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '23',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '24',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '25',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '26',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '27',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '29',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '30',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '31',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '3',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '4',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '5',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '6',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '7',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: 'Book a meeting',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: 'The Big Circle 6.0\n7:00 PM – 2:00 AM (+1 day)',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Close',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Minimize',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Full size',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:40',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:32',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:20',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:39',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:42',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:32',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:50',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:23',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:45',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:07',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:51',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:50',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:01',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:48',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:55',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:37',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:03',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:22',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:52',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:53',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:13',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:59',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:05',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:38',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:10',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:01',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:19',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:20',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:24',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:52',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:33',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:35',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:54',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:54',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:54',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:59',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:59',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:54',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  ... 761 more items
+]
+Camera frvky
+Camera
+File
+Edit
+View
+Window
+Sun Oct 25  10:54 PM
+Calendar
+October 2026
+S
+M
+T
+W
+T
+F
+S
+27
+28
+29
+30
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+1
+2
+3
+4
+5
+6
+7
+Sunday, October 25
+Book a meeting
+The Big Circle 6.0
+7:00 PM – 2:00 AM (+1 day)
+Photos
+Library
+1:40
+2:00
+1:32
+0:20
+0:39
+0:42
+1:32
+2:50
+2:00
+1:23
+0:45
+1:07
+0:51
+1:00
+0:50
+1:01
+1:00
+1:48
+0:55
+1:37
+1:03
+1:00
+1:00
+2:22
+0:52
+0:53
+1:13
+0:59
+2:05
+1:38
+1:10
+2:01
+1:28
+1:19
+1:20
+1:24
+1:52
+1:28
+1:28
+1:33
+1:35
+0:54
+0:54
+0:54
+0:59
+1:00
+0:59
+0:54
+0:59
+0:54
+0:59
+1:38
+2:22
+Library
+Albums
+Safari
+Creativblock
+Dance Eko
+Ardour
+Groove Station
+KG Fit
+The Minister House
+Rundown
+Frequency
+SameRoom
+Afterset
+The DIY Collective
+Lammy A
+EF Moon
+https://creativblock.xyz
+
+Platform to discover creatives, enter weekly competitions and hire for briefs.
+
+Notes
+Notes
+FOLDERS
+Testimonials
+1439
+Websites
+14
+kunmi / frvky — what i do
+I'm Solomon Akinkunmi, also known as Kunmi or Frvky. I'm based in Lagos, working across music, marketing, film and digital products. I co-founded Jetron Ticket and lead the company as CEO, alongside my marketing work at KVLT and my own creative projects.
+work with me
+Marketing: campaign planning and execution for artists, events and brands. Paid advertising, influencer coordination, content direction and audience growth. I can lead the campaign or take ownership of a specific part of it.
+a few marketing projects
+Dance Eko 2025: I developed the overall marketing strategy with input from the team, assigned workstreams, ran all paid ads and oversaw the marketing budget. I led an approximately four-person marketing team and coordinated the media companies producing the content. The event sold over 5,000 tickets overall — that's the event result, not a claim that advertising alone generated every sale.
+sites, products and the work around them
+Dance Eko: I built the festival website and lead the marketing work around it. The site brings together event information, Road to Dance Eko activations, signups, playlists, past-edition galleries and ticket flows.
+rundown
+managers keep trying to remember who mixed what six months after the song was recorded. splits half written on a random note somewhere, producer credits nobody wrote down because it felt too early to bother when the song was still rough. by the time it's actually ready to go out, everyone's reconstructing history from memory and group chats, and someone always forgets a name that mattered.
+groove station weekly in dec??
+test it. momentum over scarcity right now. biweekly made sense early on, it built anticipation while the brand was still finding its feet and people needed a reason to mark the date. but people know it now, the brand has legs of its own. holding back on frequency might be leaving money and rhythm on the table at exactly the point where demand could actually support more. try a full month of weekly and actually watch the data instead of assuming, see whether attendance holds, dips, or somehow grows because the rhythm becomes a habit instead of an event. don't theorize this one, just run it.
+why build frvky.online at all
+got tired of the idea of a "portfolio" honestly. everyone's got a clean site with a hero image, a bio paragraph, and a contact form, and none of it says anything real about who made it. wanted something that actually felt like picking up a device, not scrolling a resume dressed up with nice fonts. if someone's going to spend two minutes on my site, i'd rather that time feel like an experience than a credential check. most people forget a portfolio the moment they close the tab. i wanted this one to stick because of how it felt, not just what it listed.
+on pricing and marketing
+there's usually a gap somewhere between markets, between platforms, between what something costs in one place versus what it's worth in another, and that gap doesn't stay open forever. the campaigns that actually worked weren't always the ones with the best creative, sometimes they worked because the pricing math was right before everyone else caught up to it. easy to give the credit to the song or the content when really it was the arbitrage doing the heavy lifting. worth being honest about which lever actually moved the needle each time, because crediting the wrong thing means repeating the wrong strategy next time and wondering why it didn't land the same way.
+b2b thing
+maybe this is bigger as a live stage format than a youtube channel. red bull energy, not content energy, something people want to attend rather than just watch back later in a feed. if it's framed as a franchise instead of a series, it probably pitches differently to sponsors too, less "help us make videos" and more "get in early on a format that scales city to city." worth actually mapping out what that would look like before defaulting to the easier, smaller version of the idea just because it's the version that's already halfway built.
+only playing amapiano out
+was the right call. depth over range. people book you because they already know exactly what they're getting when your name is on the lineup, not because you can technically do a bit of everything if asked. that specificity is the actual value, not a limitation on the brand. the DJs trying to be everything to everyone are usually the ones nobody can quite place, and getting booked for a vibe beats getting booked as a generalist every time.
+sync idea
+the lyric overlay should feel inevitable, not synced. if it feels timed, it's wrong, it should feel like the words were always going to land exactly there, like the app just noticed it rather than calculated it. small technical detail on paper but it's genuinely the whole difference between something feeling like software running in the background and something feeling like a moment happening in real time. worth obsessing over that timing more than almost anything else in the build.
+building frvky.online
+went with the phone-interface idea and just kept pushing on every tiny detail instead of settling for close enough anywhere. lock screen with an actual swipe to unlock, a real home screen with icons that open into their own little simulated worlds, photos that actually behave like photos behave instead of just being a generic gallery grid with a lightbox slapped on. building it screen by screen, catching every place it felt slightly off, the autoplay that didn't autoplay, the widget that looked like a button instead of a widget, and fixing each one until it stopped feeling like a website pretending to be a phone and started actually feeling like a phone. treating the whole thing like product design work, not a marketing site with animations.
+other sites built
+groove station and rundown both have their own notes because they're still active and evolving, but ardour and dance eko deserve a mention too. ardour is the one that has to stay raw on purpose, orange, underground, no polish, the second it starts looking too clean it stops being ardour and just becomes another event with a nice website. dance eko is the festival build, still in progress, and the lesson there so far is that every activation needs to feel like its own moment rather than a checkbox on a marketing calendar. easy to post a countdown graphic and call it done, much harder and much more worthwhile to actually show up in the spaces people already are.
+landmark and the groundnut oil paper
+landmark taught rigor, the groundnut oil paper taught patience. neither one shows up on a flyer or a deck cover, nobody's ever going to ask about either of them in a pitch meeting, but both are quietly present in every single thing i build now whether anyone notices it or not. the discipline of finishing something properly and the patience to sit with a slow process are both underrated skills that came from places that have nothing to do with music or tech.
+write down the wahala method before i forget it
+pricing arbitrage plus timing plus the right sound, it worked once. need to actually figure out if that combination is repeatable as a method or if it was just right place, right time that happened to line up. worth writing this down now while the details are still fresh, because trying to reverse engineer a win from memory a year later almost never works as well as capturing the thinking while it's still live.
+Camera
+
+Camera access is off.
+
+Choose a photo instead
+PHOTO
+Sun
+25
+Leave Frvky a note ✍️
+now
+
+Tap to say something about the site. It goes straight into Testimonials.
+controls [
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Close',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Minimize',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Full size',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Previous month',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Next month',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '27',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '29',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '30',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '3',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '4',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '5',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '6',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '7',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '8',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '9',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '10',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '11',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '12',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '13',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '14',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '15',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '16',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '17',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '18',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '19',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '20',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '21',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '22',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '23',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '24',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '25',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '26',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '27',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '29',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '30',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '31',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '3',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '4',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '5',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '6',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '7',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: 'Book a meeting',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: 'The Big Circle 6.0\n7:00 PM – 2:00 AM (+1 day)',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Close',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Minimize',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '',
+    aria: 'Full size',
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:40',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:32',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:20',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:39',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:42',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:32',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:50',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:23',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:45',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:07',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:51',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:50',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:01',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:48',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:55',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:37',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:03',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:22',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:52',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:53',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:13',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:59',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:05',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:38',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:10',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '2:01',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:19',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:20',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:24',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:52',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:28',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:33',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:35',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:54',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:54',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:54',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:59',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '1:00',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:59',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  {
+    tag: 'BUTTON',
+    text: '0:54',
+    aria: null,
+    href: null,
+    placeholder: null
+  },
+  ... 769 more items
+]
+Jetron Ticket locator.click: Timeout 3000ms exceeded.
+Call log:
+[2m  - waiting for getByRole('button', { name: 'Jetron Ticket', exact: true }).first()[22m
+[2m    - locator resolved to <button aria-label="Jetron Ticket" class="rounded-[14px] outline-none focus-visible:ring-2 focus-visible:ring-white/70">…</button>[22m
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div class="flex items-center justify-between px-8">…</div> from <div class="mac-window absolute flex flex-col overflow-hidden bg-white/95 backdrop-blur-xl rounded-xl shadow-[0_22px_70px_rgba(0,0,0,0.45)]">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div class="flex items-center justify-between px-8">…</div> from <div class="mac-window absolute flex flex-col overflow-hidden bg-white/95 backdrop-blur-xl rounded-xl shadow-[0_22px_70px_rgba(0,0,0,0.45)]">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    5 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div class="flex items-center justify-between px-8">…</div> from <div class="mac-window absolute flex flex-col overflow-hidden bg-white/95 backdrop-blur-xl rounded-xl shadow-[0_22px_70px_rgba(0,0,0,0.45)]">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 500ms[22m
+

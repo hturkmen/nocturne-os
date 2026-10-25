@@ -1,0 +1,162 @@
+desktop frvky
+Finder
+File
+Edit
+View
+Window
+Sun Oct 25  10:53 PM
+Sun
+25
+Leave Frvky a note ✍️
+now
+
+Tap to say something about the site. It goes straight into Testimonials.
+
+Sunday, October 25
+10:53 PM
+Jetron turns 4 🎉
+now
+
+Four years of getting Africa into its best nights. Thank you for coming with us.
+
+New testimonial
+1m ago
+
+“Love the camera feature, so creative”
+
+Instagram
+2m ago
+
+groovestation mentioned you in their story.
+
+Sun
+25
+The Big Circle 6.0
+1h ago
+
+Today · 7:00 PM
+
+Swipe up to unlock
+buttons [
+  { text: 'Sun\n25', label: 'Calendar' },
+  { text: '', label: 'Photos' },
+  { text: '', label: 'Safari' },
+  { text: '', label: 'Notes' },
+  { text: '', label: 'Camera' },
+  { text: '', label: 'Jetron Ticket' }
+]
+after gesture frvky
+Finder
+File
+Edit
+View
+Window
+Sun Oct 25  10:53 PM
+Sun
+25
+Leave Frvky a note ✍️
+now
+
+Tap to say something about the site. It goes straight into Testimonials.
+tablet frvky
+Finder
+File
+Edit
+View
+Window
+Sun Oct 25  10:53 PM
+Sun
+25
+Leave Frvky a note ✍️
+now
+
+Tap to say something about the site. It goes straight into Testimonials.
+
+Sunday, October 25
+10:53 PM
+Jetron turns 4 🎉
+now
+
+Four years of getting Africa into its best nights. Thank you for coming with us.
+
+Instagram
+2m ago
+
+groovestation mentioned you in their story.
+
+Sun
+25
+The Big Circle 6.0
+1h ago
+
+Today · 7:00 PM
+
+Swipe up to unlock
+buttons [
+  { text: 'Sun\n25', label: 'Calendar' },
+  { text: '', label: 'Photos' },
+  { text: '', label: 'Safari' },
+  { text: '', label: 'Notes' },
+  { text: '', label: 'Camera' },
+  { text: '', label: 'Jetron Ticket' }
+]
+after gesture frvky
+Finder
+File
+Edit
+View
+Window
+Sun Oct 25  10:53 PM
+Sun
+25
+Leave Frvky a note ✍️
+now
+
+Tap to say something about the site. It goes straight into Testimonials.
+mobile frvky
+Finder
+Sun Oct 25  10:53 PM
+Sun
+25
+Leave Frvky a note ✍️
+now
+
+Tap to say something about the site. It goes straight into Testimonials.
+
+Sunday, October 25
+10:53 PM
+Jetron turns 4 🎉
+now
+
+Four years of getting Africa into its best nights. Thank you for coming with us.
+
+Instagram
+2m ago
+
+groovestation mentioned you in their story.
+
+Sun
+25
+The Big Circle 6.0
+1h ago
+
+Today · 7:00 PM
+
+Swipe up to unlock
+buttons [
+  { text: 'Sun\n25', label: 'Calendar' },
+  { text: '', label: 'Photos' },
+  { text: '', label: 'Safari' },
+  { text: '', label: 'Notes' },
+  { text: '', label: 'Camera' },
+  { text: '', label: 'Jetron Ticket' }
+]
+after gesture frvky
+Finder
+Sun Oct 25  10:53 PM
+Sun
+25
+Leave Frvky a note ✍️
+now
+
+Tap to say something about the site. It goes straight into Testimonials.
