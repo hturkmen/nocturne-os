@@ -43,10 +43,13 @@ For production, create a Supabase PostgreSQL project, execute `docs/supabase.sql
 
 ## GitHub
 
-Source is ready for a new repository named `nocturne-os`:
+Source repository: [hturkmen/nocturne-os](https://github.com/hturkmen/nocturne-os). The default branch is `main`.
 
 ```sh
-gh repo create nocturne-os --private --source=. --remote=origin --push
+git clone https://github.com/hturkmen/nocturne-os.git
+cd nocturne-os
+npm ci
+npm run dev
 ```
 
-No remote repository is claimed until GitHub confirms creation. The workspace CLI token was invalid during implementation; the connected GitHub tool supports repository reads and file writes, but exposes no repository-creation action.
+The repository includes the complete Next.js application, setup documentation, reference analysis, browser screenshots, and Playwright smoke tests. Database credentials are optional for local exploration.
